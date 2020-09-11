@@ -1,0 +1,5 @@
+Class Wbesite{
+int a="asd";
+String srt=3;
+
+}
